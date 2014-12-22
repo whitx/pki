@@ -30,7 +30,7 @@ from rest_framework import permissions
 from rest_framework import status
 
 
-from pki.serializers import *
+#from pki.serializers import *
 from pki.models import *
 from pki.forms import *
 from pki.utils import *
